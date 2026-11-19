@@ -21,7 +21,7 @@ en Aegisub o en cualquier reproductor/editor que soporte `.ass`.
 
 ## Video tutorial
 
-🎬 **[Ver el video tutorial](https://PEGA-AQUI-EL-ENLACE-DE-TU-VIDEO)**
+🎬 **[Ver el video tutorial]([https://PEGA-AQUI-EL-ENLACE-DE-TU-VIDEO](https://youtu.be/mCUtOeKxY_A))**
 
 ## Qué hace
 
