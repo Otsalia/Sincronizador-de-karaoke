@@ -1,0 +1,5 @@
+# Alineación de la letra con el audio (instala también PyTorch y Whisper)
+stable-ts
+
+# Opcional: aislar la voz antes de alinear (casilla "Aislar voz" del programa)
+demucs
